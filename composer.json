@@ -1,0 +1,15 @@
+{
+    "name": "xnosys/xnosys-router",
+    "description": "Xnosys router func.",
+    "type": "library",
+    "require": {
+        "php": "^7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xnosys",
+            "homepage": "https://xnosys.com"
+        }
+    ]
+}
